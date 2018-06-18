@@ -1,0 +1,33 @@
+*{
+    color: black;
+
+}
+
+.bg{
+width: 100%;height: 100vh;}
+
+.form-container{ padding: 50px 60px;margin-top: 15vh;
+    background-color: white;
+    -webkit-box-shadow: 1px 0px 7px 7px rgba(0,0,0,0.69);
+    -moz-box-shadow: 1px 0px 7px 7px rgba(0,0,0,0.69);
+    box-shadow: 1px 0px 7px 16px rgba(0,0,0,0.69);
+}
+
+
+
+#space{
+    margin-top:30px;
+}
+
+.custom_message{
+    margin-bottom: 5px;
+    margin-top: 5px;
+    color: #f44336;
+    display: block;
+}
+
+.custom2{
+    color: red;
+    font-size: 20px;
+    margin-right: 10px;
+}
